@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "p1",
+    "id": "p1",
+    "name": "Chocolate Donut",
+    "category": "Classic Donuts",
+    "description": "Decadent milk chocolate glazed donut topped with fine chocolate flakes.",
+    "price": 2.99,
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": true,
+    "inStock": true
+  },
+  {
+    "_id": "p2",
+    "id": "p2",
+    "name": "Strawberry Donut",
+    "category": "Classic Donuts",
+    "description": "Sweet strawberry glaze topped with colorful sprinkles on our signature soft dough.",
+    "price": 2.99,
+    "image": "https://images.unsplash.com/photo-1612240498936-65f5101365d2?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": true,
+    "inStock": true
+  },
+  {
+    "_id": "p3",
+    "id": "p3",
+    "name": "Vanilla Sprinkle Donut",
+    "category": "Mini Donuts",
+    "description": "Classic vanilla bean glaze with festive sugar sprinkles.",
+    "price": 2.49,
+    "image": "https://images.unsplash.com/photo-1527515648294-f904791a8409?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": true,
+    "inStock": true
+  },
+  {
+    "_id": "p4",
+    "id": "p4",
+    "name": "Caramel Donut",
+    "category": "Premium Donuts",
+    "description": "Rich salted caramel glaze drizzled with butterscotch and sea salt.",
+    "price": 3.49,
+    "image": "https://images.unsplash.com/photo-1533930027521-1378bf94156a?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": true,
+    "inStock": true
+  },
+  {
+    "_id": "p5",
+    "id": "p5",
+    "name": "Oreo Donut",
+    "category": "Premium Donuts",
+    "description": "Cookies & cream glaze topped with crushed Oreo cookies and white chocolate drizzle.",
+    "price": 3.89,
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": true,
+    "inStock": true
+  },
+  {
+    "_id": "p6",
+    "id": "p6",
+    "name": "Original Glazed",
+    "category": "Classic Donuts",
+    "description": "Our traditional melt-in-your-mouth yeast donut with sweet glaze.",
+    "price": 1.99,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": true,
+    "inStock": true
+  },
+  {
+    "_id": "p7",
+    "id": "p7",
+    "name": "Nutella Dream",
+    "category": "Premium Donuts",
+    "description": "Loaded with premium Nutella hazelnut spread and dusted with cocoa.",
+    "price": 3.99,
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": false,
+    "inStock": true
+  },
+  {
+    "_id": "p8",
+    "id": "p8",
+    "name": "Custard Filled",
+    "category": "Filled Donuts",
+    "description": "Filled with velvety Bavarian cream and topped with powdered sugar.",
+    "price": 3.29,
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": false,
+    "inStock": true
+  },
+  {
+    "_id": "p9",
+    "id": "p9",
+    "name": "Strawberry Filled",
+    "category": "Filled Donuts",
+    "description": "Stuffed with fresh strawberry compote and coated with fine sugar crystals.",
+    "price": 3.29,
+    "image": "https://images.unsplash.com/photo-1570745585093-bc97e163b400?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": false,
+    "inStock": true
+  },
+  {
+    "_id": "p10",
+    "id": "p10",
+    "name": "Espresso",
+    "category": "Coffee and Drinks",
+    "description": "A rich and intense single shot of premium Arabica beans.",
+    "price": 2.29,
+    "image": "https://images.unsplash.com/photo-1510972527409-cef6e4895ff4?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": false,
+    "inStock": true
+  },
+  {
+    "_id": "p11",
+    "id": "p11",
+    "name": "Cappuccino",
+    "category": "Coffee and Drinks",
+    "description": "Espresso topped with equal parts steamed milk and creamy foam.",
+    "price": 3.49,
+    "image": "https://images.unsplash.com/photo-1534778101976-62847782c213?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": false,
+    "inStock": true
+  },
+  {
+    "_id": "p12",
+    "id": "p12",
+    "name": "Latte",
+    "category": "Coffee and Drinks",
+    "description": "Smooth espresso paired with freshly steamed milk and a thin layer of foam.",
+    "price": 3.79,
+    "image": "https://images.unsplash.com/photo-1570968915860-54d5c301fc9f?auto=format&fit=crop&w=600&q=80",
+    "isBestSeller": false,
+    "inStock": true
+  }
+]

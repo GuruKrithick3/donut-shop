@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "c1",
+    "id": "c1",
+    "code": "DONUTLOVE",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minCartAmount": 0,
+    "active": true
+  },
+  {
+    "_id": "c2",
+    "id": "c2",
+    "code": "SWEETDEAL",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minCartAmount": 30,
+    "active": true
+  },
+  {
+    "_id": "c3",
+    "id": "c3",
+    "code": "FIRSTDONUT",
+    "discountType": "fixed",
+    "discountValue": 5,
+    "minCartAmount": 15,
+    "active": true
+  }
+]

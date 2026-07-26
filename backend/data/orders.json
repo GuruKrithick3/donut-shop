@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "eqyuv7n",
+    "id": "eopg36z",
+    "createdAt": "2026-06-25T14:24:34.726Z",
+    "updatedAt": "2026-06-25T14:24:34.726Z",
+    "userId": "guest",
+    "items": [
+      {
+        "productId": "p4",
+        "name": "Caramel Donut",
+        "price": 3.49,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1533930027521-1378bf94156a?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "totalAmount": 3.49,
+    "discountAmount": 0,
+    "finalAmount": 7.48,
+    "status": "Received",
+    "deliveryMethod": "delivery",
+    "deliveryDetails": {
+      "name": "Guru Krithick",
+      "phone": "12345678",
+      "address": "cfz",
+      "city": "zxc",
+      "notes": "zzc"
+    },
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "trackingCode": "DONUT-384565"
+  }
+]

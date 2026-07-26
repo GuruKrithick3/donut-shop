@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "b1",
+    "id": "b1",
+    "title": "The Art of Handcrafting Donuts",
+    "summary": "Explore the delicate chemistry and craftsmanship that goes into making the perfect fluffy donut dough every single morning.",
+    "content": "Making donuts is not just baking; it is an art form. Every day at 3:00 AM, our bakers start preparing the dough. Yeast dough requires precise humidity, temperature, and rising times to create that perfect pillowy interior. We use organic high-protein flour, farm-fresh pasture eggs, and pure grass-fed butter. The secret lies in our long cold fermentation process, allowing the sugars in the flour to develop rich flavors before frying. We fry in high-smoke-point expeller-pressed oil at exactly 375°F to ensure they crisp beautifully without absorbing grease. This attention to detail is why our signature donuts melt in your mouth!",
+    "author": "Chef Evelyn Vance (Head Baker)",
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=600&q=80",
+    "publishedAt": "2026-06-25T13:46:21.320Z"
+  },
+  {
+    "_id": "b2",
+    "id": "b2",
+    "title": "Coffee & Donuts: The Perfect Pairing",
+    "summary": "Why do coffee and donuts complement each other so well? Learn the science behind this historical culinary pairing.",
+    "content": "It is a pairing as old as time: a fresh glazed donut and a steaming cup of dark coffee. But why do they work so well? Scientists tell us it is about the interplay between bitter caffeine and sweet fats. The bitterness of roasted coffee beans cuts through the heavy sweetness of glazed sugar, cleaning your palate after every bite. Furthermore, the fats in the donut milk glaze coat the tongue, softening the astringency of hot coffee. At DONUTS, we source premium single-origin Arabica beans from the Ethiopian highlands, roasted light-medium, specifically blending fruity acidity to balance our decadent premium toppings like chocolate and salted caramel.",
+    "author": "Liam Chen (Lead Barista)",
+    "image": "https://images.unsplash.com/photo-1517256064527-09c53b2d0ec6?auto=format&fit=crop&w=600&q=80",
+    "publishedAt": "2026-06-25T13:46:21.320Z"
+  },
+  {
+    "_id": "b3",
+    "id": "b3",
+    "title": "Behind the Scenes: A Day in the Life",
+    "summary": "Step behind the counter and see what it takes to run a bustling donut shop and cafe from dawn to dusk.",
+    "content": "Ever wondered what happens before we open our doors at 8:00 AM? The kitchen is a hub of action. While the bakers prepare frostings and glaze pans, our manager coordinates delivery trucks bringing fresh fruits, cream, and coffee beans. By 7:30 AM, our storefront smells like vanilla and roasted hazelnuts. The doors open, and a rush of commuters and students fills the shop. Designing a workflow that serving coffee in under 90 seconds while maintaining artisanal standards is our daily mountain to climb. We love seeing our regulars walk in and knowing exactly what they want before they even order!",
+    "author": "Sarah Jenkins (Store Manager)",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+    "publishedAt": "2026-06-25T13:46:21.320Z"
+  }
+]

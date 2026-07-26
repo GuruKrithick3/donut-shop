@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "admin-id-111",
+    "id": "admin-id-111",
+    "name": "Donuts Admin",
+    "email": "admin@donuts.com",
+    "password": "$2a$10$r5xdzBrsI5N1BAHtESXJv.snOr.lcCRS0EJYIBEsD/4nlVTt/pahW",
+    "isAdmin": true,
+    "loyaltyPoints": 500,
+    "referralCode": "ADMIN5",
+    "createdAt": "2026-06-25T13:46:21.314Z"
+  }
+]

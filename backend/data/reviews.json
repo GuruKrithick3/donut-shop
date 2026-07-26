@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "r1",
+    "id": "r1",
+    "name": "Marcus Sterling",
+    "rating": 5,
+    "comment": "The Oreo Donut is hands down the best thing I have ever tasted! Fluffy, sweet, and perfectly crunchy.",
+    "ratingDate": "2026-06-25T13:46:21.321Z"
+  },
+  {
+    "_id": "r2",
+    "id": "r2",
+    "name": "Emily Rodriguez",
+    "rating": 5,
+    "comment": "Clean shop, friendly staff, and the cappuccino pairs perfectly with their classic original glazed.",
+    "ratingDate": "2026-06-25T13:46:21.321Z"
+  },
+  {
+    "_id": "r3",
+    "id": "r3",
+    "name": "David Kim",
+    "rating": 4,
+    "comment": "Highly recommend the Salted Caramel Donut. Ordering online was fast and my pickup was ready on time.",
+    "ratingDate": "2026-06-25T13:46:21.321Z"
+  },
+  {
+    "_id": "r4",
+    "id": "r4",
+    "name": "Chloe Watson",
+    "rating": 5,
+    "comment": "Their mini sprinkle donuts were a massive hit at my daughter's birthday party! Will definitely order again.",
+    "ratingDate": "2026-06-25T13:46:21.321Z"
+  },
+  {
+    "_id": "r5",
+    "id": "r5",
+    "name": "Brian Miller",
+    "rating": 5,
+    "comment": "Great coffee, cozy environment for studying, and absolute top tier fresh artisan donuts.",
+    "ratingDate": "2026-06-25T13:46:21.321Z"
+  },
+  {
+    "_id": "r6",
+    "id": "r6",
+    "name": "Sophia Lopez",
+    "rating": 5,
+    "comment": "I love the loyalty points! Getting a free donut with my coffee is the perfect highlight of my mornings.",
+    "ratingDate": "2026-06-25T13:46:21.321Z"
+  }
+]
