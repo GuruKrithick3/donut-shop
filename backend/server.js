@@ -1,8 +1,14 @@
+// IMPORTANT: this must be the very first import. It loads backend/.env into
+// process.env *before* anything else runs. Since our models (Product.js,
+// User.js, etc.) read process.env.MONGO_URI as soon as they're imported,
+// dotenv has to finish first or every model silently falls back to the
+// local JSON mock store instead of MongoDB.
+import 'dotenv/config';
+
 import express from 'express';
 import cors from 'cors';
-import dotenv from 'dotenv';
 import mongoose from 'mongoose';
-import { seedDefaultData } from './config/mockDbHelper.js';
+import { seedDatabase } from './config/seed.js';
 
 // Import Routes
 import authRoutes from './routes/auth.js';
@@ -11,8 +17,6 @@ import orderRoutes from './routes/orders.js';
 import reviewRoutes from './routes/reviews.js';
 import couponRoutes from './routes/coupons.js';
 import blogRoutes from './routes/blog.js';
-
-dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -56,7 +60,9 @@ const init = async () => {
   }
 
   // Seed data (creates default admin, products, coupons, blogs, reviews)
-  await seedDefaultData();
+  // This now goes through the actual Product/User/Coupon/Blog/Review models,
+  // so it correctly lands in MongoDB when connected, not just local JSON files.
+  await seedDatabase();
 
   app.listen(PORT, () => {
     console.log(`DONUTS backend server running on port http://localhost:${PORT}`);

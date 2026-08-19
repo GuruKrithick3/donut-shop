@@ -28,7 +28,7 @@
     "category": "Mini Donuts",
     "description": "Classic vanilla bean glaze with festive sugar sprinkles.",
     "price": 2.49,
-    "image": "https://images.unsplash.com/photo-1527515648294-f904791a8409?auto=format&fit=crop&w=600&q=80",
+    "image": "images/IMG_20240905_125917.jpg",
     "isBestSeller": true,
     "inStock": true
   },
